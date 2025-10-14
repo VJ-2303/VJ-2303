@@ -1,15 +1,43 @@
-# Hi there, I'm VJ! 👋
+<h1 align="center">Hey there, I'm VJ 👋</h1>
 
-I'm a Computer Science student laser-focused on **Backend Development**. My mission is to build efficient, scalable, and impactful software using **Go**.
+<p align="center">
+  <b>Computer Science Student • Backend Developer • Go Enthusiast</b><br/>
+  I build scalable systems, automate workflows, and love turning complex problems into elegant, efficient code.
+</p>
 
 ---
 
-### 🚀 What I'm Building With
+### ⚙️ About Me
 
-* **Go for Backend:** I'm actively learning and building fast, reliable server-side applications with Go.
-* **Full-Stack Perspective:** While my focus is the backend, I enjoy working across the entire stack to create complete solutions for web and mobile.
-* **DevOps & Automation:** I believe in writing clean code and automating processes to create smooth, continuous delivery pipelines.
+💡 I’m a **Computer Science student** obsessed with crafting high-performance backends.  
+🚀 My current mission: **master Go** and become unstoppable at building **scalable APIs & cloud-native systems**.  
+💬 I love discussing **system design**, **distributed architectures**, and **clean code principles**.
 
-### 📫 Let's Connect
+---
 
-> I'm always open to collaborating on interesting projects or just chatting about technology. If you want to build something cool with Go, let's talk!
+### 🧰 Featured Projects
+
+| 🚀 Project | 🔧 Tech Stack | 💬 Description |
+|-------------|---------------|----------------|
+| [**ThinkBoard**](#) | Go, MongoDB, React | A full-stack idea board to manage and organize your thoughts |
+| [**SmartList**](#) | React, Express, Firebase | A personal task manager with intelligent sorting |
+| [**Missing Child Identifier**](#) | Go, Azure Face API, MongoDB | Facial recognition system to identify and locate missing children |
+
+---
+
+### 🧭 Philosophy
+
+> “Don’t just code to make things work.  
+> Code to make things **beautifully efficient**.”
+
+---
+
+### 🤝 Let’s Connect
+
+📫 **Email:** [vanaraj1018@gmail.com]  
+💼 **LinkedIn:** [https://www.linkedin.com/in/vanaraj-p-372405306/]  
+💻 **Portfolio:** [https://vanaraj.me]
+
+---
+
+<h3 align="center">✨ Building the future with Go, one commit at a time ✨</h3>
