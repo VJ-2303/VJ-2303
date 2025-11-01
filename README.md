@@ -15,23 +15,6 @@
 
 ---
 
-### 🧰 Featured Projects
-
-| 🚀 Project | 🔧 Tech Stack | 💬 Description |
-|-------------|---------------|----------------|
-| [**ThinkBoard**](#) | Go, MongoDB, React | A full-stack idea board to manage and organize your thoughts |
-| [**SmartList**](#) | React, Express, Firebase | A personal task manager with intelligent sorting |
-| [**Missing Child Identifier**](#) | Go, Azure Face API, MongoDB | Facial recognition system to identify and locate missing children |
-
----
-
-### 🧭 Philosophy
-
-> “Don’t just code to make things work.  
-> Code to make things **beautifully efficient**.”
-
----
-
 ### 🤝 Let’s Connect
 
 📫 **Email:** [vanaraj1018@gmail.com]  
